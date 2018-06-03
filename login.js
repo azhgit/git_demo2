@@ -1,4 +1,4 @@
-funciton login(){
+function login(){
 
     console.log('login');
 
